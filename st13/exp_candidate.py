@@ -30,3 +30,4 @@ class Exp_Candidate(Candidate):
 
     def get_last_job(self):
         return self.last_job
+

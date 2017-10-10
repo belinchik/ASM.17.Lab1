@@ -34,3 +34,5 @@ class Data_Base:
 
     def load_from_file(self):
         self.data_base = pickle.load(open("st13/candidates.p", "rb" ))
+
+ 
